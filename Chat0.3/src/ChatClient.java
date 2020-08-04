@@ -18,10 +18,7 @@ public class ChatClient extends Frame {
         add(tfText, BorderLayout.SOUTH);
         add(taContent, BorderLayout.NORTH);
         pack();
-        setVisible(true);
-
-
-        this.addWindowListener( //窗口关闭
+        this.addWindowListener(   //窗口关闭
                 new WindowAdapter() {
                     public void windowClosing(WindowEvent e) {
                         setVisible(false);
@@ -29,5 +26,6 @@ public class ChatClient extends Frame {
                     }
                 }
         );
+        setVisible(true);
     }
 }
