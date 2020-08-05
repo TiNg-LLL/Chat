@@ -10,6 +10,9 @@
       <module fileurl="file://$PROJECT_DIR$/Chat0.5/Chat0.5.iml" filepath="$PROJECT_DIR$/Chat0.5/Chat0.5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chat0.6/Chat0.6.iml" filepath="$PROJECT_DIR$/Chat0.6/Chat0.6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chat0.7/Chat0.7.iml" filepath="$PROJECT_DIR$/Chat0.7/Chat0.7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chat0.8/Chat0.8.iml" filepath="$PROJECT_DIR$/Chat0.8/Chat0.8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chat0.9/Chat0.9.iml" filepath="$PROJECT_DIR$/Chat0.9/Chat0.9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chat1.0/Chat1.0.iml" filepath="$PROJECT_DIR$/Chat1.0/Chat1.0.iml" />
     </modules>
   </component>
 </project>
